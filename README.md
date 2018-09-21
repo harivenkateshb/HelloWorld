@@ -1,2 +1,1 @@
-# HelloWorld is the dashing app
-enna da
+# HelloWorld is the app to dash
