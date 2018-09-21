@@ -1,3 +1,3 @@
 
-# HelloWorld is the dashing app
+# HelloWorld is the  app
 
